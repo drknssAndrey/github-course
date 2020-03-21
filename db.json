@@ -1,0 +1,24 @@
+{
+  "usuarios": {
+    "001": {
+      "usuario": "andrey",
+      "email": "andrey@gmail.com",
+      "senha": "123456"
+    },
+    "002": {
+      "usuario": "andrey",
+      "email": "andrey@gmail.com",
+      "senha": "123456"
+    },
+    "003": {
+      "usuario": "andrey",
+      "email": "andrey@gmail.com",
+      "senha": "123456"
+    },
+    "004": {
+      "usuario": "andrey",
+      "email": "andrey@gmail.com",
+      "senha": "123456"
+    }
+  }
+}
