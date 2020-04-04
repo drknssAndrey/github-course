@@ -1,24 +1,24 @@
 {
-  "usuarios": {
-    "001": {
+  "users": {
+    "andrey": {
       "usuario": "andrey",
-      "email": "andrey@gmail.com",
-      "senha": "123456"
+      "senha": "123456",
+      "picture": ""
     },
-    "002": {
+    "brandao": {
       "usuario": "brandao",
-      "email": "brandao@gmail.com",
-      "senha": "321654"
+      "senha": "321654",
+      "picture": ""
     },
-    "003": {
+    "washington": {
       "usuario": "washington",
-      "email": "washington@gmail.com",
-      "senha": "123456"
+      "senha": "123456",
+      "picture": ""
     },
-    "004": {
+    "maria": {
       "usuario": "maria",
-      "email": "maria@gmail.com",
-      "senha": "333444"
+      "senha": "333444",
+      "picture": ""
     }
   }
 }
