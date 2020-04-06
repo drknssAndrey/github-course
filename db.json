@@ -1,24 +1,22 @@
 {
-  "users": {
-    "andrey": {
-      "usuario": "andrey",
-      "senha": "123456",
-      "picture": ""
-    },
-    "brandao": {
-      "usuario": "brandao",
-      "senha": "321654",
-      "picture": ""
-    },
-    "washington": {
-      "usuario": "washington",
-      "senha": "123456",
-      "picture": ""
-    },
-    "maria": {
-      "usuario": "maria",
-      "senha": "333444",
-      "picture": ""
-    }
+  "andrey": {
+    "usuario": "andrey",
+    "senha": "123456",
+    "picture": ""
+  },
+  "brandao": {
+    "usuario": "brandao",
+    "senha": "321654",
+    "picture": ""
+  },
+  "washington": {
+    "usuario": "washington",
+    "senha": "123456",
+    "picture": ""
+  },
+  "maria": {
+    "usuario": "maria",
+    "senha": "333444",
+    "picture": ""
   }
 }
