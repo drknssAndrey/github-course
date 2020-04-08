@@ -1,24 +1,39 @@
-[
-  {
-    "Username": "admin",
-    "Password": "320fdf34",
-    "Picture": " "
+{
+  "USD": {
+    "15m": 6650.3,
+    "last": 6650.3,
+    "buy": 6650.3,
+    "sell": 6650.3,
+    "symbol": "$"
   },
-  {
-    "Username": "andrey",
-    "Password": "4343ffd",
-    "Picture": " "
+  "AUD": {
+    "15m": 10857.19,
+    "last": 10857.19,
+    "buy": 10857.19,
+    "sell": 10857.19,
+    "symbol": "$"
   },
-  {
-    "Username": "brandao",
-    "Password": "4343ffd",
-    "Picture": " "
+  "BRL": {
+    "15m": 33997,
+    "last": 33997,
+    "buy": 33997,
+    "sell": 33997,
+    "symbol": "R$"
   },
-  {
-    "Username": "maria",
-    "Password": "4343ffd",
-    "Picture": " "
+  "CAD": {
+    "15m": 9361.24,
+    "last": 9361.24,
+    "buy": 9361.24,
+    "sell": 9361.24,
+    "symbol": "$"
+  },
+  "CHF": {
+    "15m": 6357.36,
+    "last": 6357.36,
+    "buy": 6357.36,
+    "sell": 6357.36,
+    "symbol": "CHF"
   }
-]
+}
 
 
