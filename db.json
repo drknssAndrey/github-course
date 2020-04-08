@@ -1,22 +1,22 @@
-{
-  "andrey": {
-    "usuario": "andrey",
-    "senha": "123456",
-    "picture": ""
+[
+  {
+    "Username": "admin",
+    "Password": "320fdf34",
+    "Picture": " "
   },
-  "brandao": {
-    "usuario": "brandao",
-    "senha": "321654",
-    "picture": ""
+  {
+    "Username": "andrey",
+    "Password": "4343ffd",
+    "Picture": " "
   },
-  "washington": {
-    "usuario": "washington",
-    "senha": "123456",
-    "picture": ""
+  {
+    "Username": "brandao",
+    "Password": "4343ffd",
+    "Picture": " "
   },
-  "maria": {
-    "usuario": "maria",
-    "senha": "333444",
-    "picture": ""
+  {
+    "Username": "maria",
+    "Password": "4343ffd",
+    "Picture": " "
   }
-}
+]
