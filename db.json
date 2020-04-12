@@ -1,24 +1,24 @@
 {
   "users": [
     {
-      "Username": "admin",
-      "Password": "320fdf34",
-      "Picture": " "
+      "username": "admin",
+      "password": "320fdf34",
+      "picture": " "
     },
     {
-      "Username": "andrey",
-      "Password": "4343ffd",
-      "Picture": " "
+      "username": "andrey",
+      "password": "4343ffd",
+      "picture": " "
     },
     {
-      "Username": "brandao",
-      "Password": "4343ffd",
-      "Picture": " "
+      "username": "brandao",
+      "password": "4343ffd",
+      "picture": " "
     },
     {
-      "Username": "maria",
-      "Password": "4343ffd",
-      "Picture": " "
+      "username": "maria",
+      "password": "4343ffd",
+      "picture": " "
     }
   ]
 }
